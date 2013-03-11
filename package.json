@@ -1,0 +1,5 @@
+{
+		"name":	"learn_a_module"
+	, "description": "Generates a random module of the day from the command line"
+	, "version":	"0.0.1"
+}
